@@ -7,3 +7,4 @@ echo value of b = $b
 
 #coomand subs
 DATE=$(date)
+echo today Date is $DATE
