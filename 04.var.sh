@@ -12,3 +12,6 @@ echo today Date is $DATE
 #Arithematic subs
 Add=$((1+3+6))
 echo addition of 1+3+6 is $Add
+
+##variable from CLI
+echo value of x = $x
